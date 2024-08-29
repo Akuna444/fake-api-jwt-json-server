@@ -3,7 +3,7 @@
     {
       "id": 1,
       "email": "ceo@email.com",
-      "password": "ceo_password",
+      "password": "ceo_pass",
       "role": "CEO",
       "full_name": "John Doe",
       "profile_picture": "https://example.com/profile_pictures/ceo.jpg",
@@ -13,7 +13,7 @@
     {
       "id": 2,
       "email": "hrmanager@email.com",
-      "password": "hrmanager_password",
+      "password": "hrmanager_pass",
       "role": "HR-Manager",
       "full_name": "Jane Smith",
       "profile_picture": "https://example.com/profile_pictures/hrmanager.jpg",
@@ -23,7 +23,7 @@
     {
       "id": 3,
       "email": "employee@email.com",
-      "password": "employee_password",
+      "password": "employee_pass",
       "role": "Employee",
       "full_name": "Alice Johnson",
       "profile_picture": "https://example.com/profile_pictures/employee.jpg",
