@@ -1,1 +1,34 @@
-{"users":[{"id":1,"email":"bruno@email.com","password":"bruno"},{"id":2,"email":"techie@email.com","password":"techie"},{"id":3,"email":"nilson@email.com","password":"nilson"},{"id":4,"email":"nilson1@email.com","password":"nilson"},{"id":5,"email":"nilson2@email.com","password":"nilson"},{"id":6,"email":"nilson3@email.com","password":"nilson"},{"id":7,"email":"nilson4@email.com","password":"nilson"},{"id":8,"email":"nilson7@email.com","password":"nilson"},{"id":9,"email":"nilson8@email.com","password":"nilson"}]}
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "ceo@email.com",
+      "password": "ceo_password",
+      "role": "CEO",
+      "full_name": "John Doe",
+      "profile_picture": "https://example.com/profile_pictures/ceo.jpg",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c",
+      "refresh_token": "dGhpc2lzbXlyZWZyZXNodG9rZW4xMjM0NTY="
+    },
+    {
+      "id": 2,
+      "email": "hrmanager@email.com",
+      "password": "hrmanager_password",
+      "role": "HR-Manager",
+      "full_name": "Jane Smith",
+      "profile_picture": "https://example.com/profile_pictures/hrmanager.jpg",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5d",
+      "refresh_token": "dGhpc2lzbXlyZWZyZXNodG9rZW4xMjM0NTYx="
+    },
+    {
+      "id": 3,
+      "email": "employee@email.com",
+      "password": "employee_password",
+      "role": "Employee",
+      "full_name": "Alice Johnson",
+      "profile_picture": "https://example.com/profile_pictures/employee.jpg",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIzIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5e",
+      "refresh_token": "dGhpc2lzbXlyZWZyZXNodG9rZW4xMjM0NTYy="
+    }
+  ]
+}
